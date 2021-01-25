@@ -1,6 +1,6 @@
 ### Hi there 👋 I'm Alejandra Jaramillo! 
 
-- 🔭 I’m currently working on at DCI - Digital Career Institute as a Web Dev Lecturer! 
+- 🔭 I’m currently working at DCI - Digital Career Institute as a Web Dev Lecturer! 
 
 
 #### Languages and Tools :
