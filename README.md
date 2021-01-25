@@ -18,14 +18,11 @@
 <img align="left" alt="HTML5" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/terminal/terminal.png" />
 
 <br>
+<br>
+<hr>
 
 ### Contact me:
 
-
-[<img align="left" alt="codeSTACKr | LinkedIn" width="32px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
-
 <br>
-
-
-
+[<img align="left" alt="codeSTACKr | LinkedIn" width="32px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
 [linkedin]: https://www.linkedin.com/in/alejandracjaramillo
