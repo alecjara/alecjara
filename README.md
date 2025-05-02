@@ -1,6 +1,6 @@
 ### Hi there 👋 I'm Alejandra Jaramillo! 
 
-- 🔭 I’m currently working at DCI - Digital Career Institute as the Assessments Manager 
+- 🔭 I’m currently working at DCI - Digital Career Institute as Technical Project Manager 
 
 
 #### Languages and Tools :
