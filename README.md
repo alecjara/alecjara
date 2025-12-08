@@ -1,7 +1,6 @@
 ### Hi there 👋 I'm Alejandra Jaramillo! 
 
-- 🔭 I’m currently working at DCI - Digital Career Institute as Technical Project Manager 
-
+- 🔭 I’m currently working as a Creative Project Manager for a family project https://kidsbooksite.com/
 
 #### Languages and Tools :
 
