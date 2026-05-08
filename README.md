@@ -1,6 +1,6 @@
 ### Hi there 👋 I'm Alejandra Jaramillo! 
 
-- 🔭 I’m currently working as a Creative Project Manager for a family project https://kidsbooksite.com/
+- 🔭 Head of Operations | PMO Lead https://kidsbooksite.com/
 
 #### Languages and Tools :
 
